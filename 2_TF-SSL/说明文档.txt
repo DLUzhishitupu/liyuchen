@@ -1,0 +1,5 @@
+清空bleu里的数据
+运行train.py
+运行test.py
+运行bleu_score.py得到机器翻译质量结果
+运行gflops_score.py得到机器翻译速度结果
